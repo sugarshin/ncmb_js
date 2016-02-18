@@ -13,7 +13,9 @@
       "url": "http://mb.cloud.nifty.com/support.htm"
     }
   ],
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "tags": [
     "mbaas",
     "parse",
@@ -32,7 +34,6 @@
   "license": "Apache License Version 2.0",
   "dependencies": {
     "create-error": "^0.3.1",
-    "es6-promise": "^3.1.2",
     "localforage": "^1.2.3",
     "lodash": "^3.9.3",
     "node-localstorage": "^0.5.1",
